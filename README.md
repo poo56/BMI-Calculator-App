@@ -43,4 +43,5 @@ Before setting up the BMI Calculator, ensure you have the following:
 6. Responsive Designing
 7. Building and Exposing LWC to Experience site
 
+Link to the published app: https://cunning-wolf-ci54i5-dev-ed.my.site.com/poojithaportfolio/bmi-calculator
 
