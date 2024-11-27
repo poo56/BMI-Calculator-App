@@ -2,6 +2,10 @@
 
 This project is a BMI Calculator built using Salesforce Lightning Web Components (LWC). It allows users to input their weight (in kg) and height (in meters), then calculates and displays their BMI (Body Mass Index). It also classifies the BMI into categories: Underweight, Normal weight, Overweight, and Obese.
 
+
+<img width="237" alt="image" src="https://github.com/user-attachments/assets/0b387070-de70-4ac4-ab87-faca337b0a85">
+
+
 ## Features
 
   1. Input Fields: Allows users to enter weight and height.
@@ -38,4 +42,5 @@ Before setting up the BMI Calculator, ensure you have the following:
 5. Layout designing
 6. Responsive Designing
 7. Building and Exposing LWC to Experience site
+
 
