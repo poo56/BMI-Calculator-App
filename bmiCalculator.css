@@ -60,3 +60,8 @@ input{
   border-color: #e91e63;
   background-color: #e91e63;
 }
+
+.result-value{
+  color: var(--light-blue);
+  font-size:30px;
+}
